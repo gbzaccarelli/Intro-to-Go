@@ -8,7 +8,5 @@ In this workshop, we'll test your understanding of the basics of Go, from its ba
 ## Sections
 - [BasicMath](basicMath/main.go) - Show you understand Go functions with some basic computation.
 - [PrintInts](printInts/main.go) - Simply print out a list of numbers, with a small catch.
-- [Slices](slices/main.go)    - Create
+- [Slices](slices/main.go)    - Create slices of an array following different situations
 - [Student](student/main.go)   - Use pointers to finish creating the Student class.
-
-
