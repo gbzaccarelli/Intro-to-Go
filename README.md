@@ -6,9 +6,9 @@ If you are completely new to Go, we reccomend first completing [A Tour of Go](ht
 In this workshop, we'll test your understanding of the basics of Go, from its basic syntax to more complex data groups.
 
 ## Sections
-- BasicMath - Show you understand Go functions with some basic computation.
-- PrintInts - Simply print out a list of numbers, with a small catch.
-- Slices    - Create
-- Student   - Use pointers to finish creating the Student class.
+- [BasicMath](basicMath/main.go) - Show you understand Go functions with some basic computation.
+- [PrintInts] - Simply print out a list of numbers, with a small catch.
+- [Slices]    - Create
+- [Student]   - Use pointers to finish creating the Student class.
 
 
